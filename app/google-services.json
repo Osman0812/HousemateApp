@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470252297054",
+    "project_id": "housemateapp-e0638",
+    "storage_bucket": "housemateapp-e0638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470252297054:android:c4892ba55227560fbe0dcf",
+        "android_client_info": {
+          "package_name": "com.example.housemateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470252297054-kpau7g63rghi51tldf53ad3lnmrgl7sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShUXdJYjIATxUY717CxPZwQXzZfE4o7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470252297054-kpau7g63rghi51tldf53ad3lnmrgl7sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
